@@ -1,18 +1,18 @@
 {
-  "version": "1.1.1",
+  "version": "0.6.0",
   "channel": "stable",
-  "releaseNotes": "修复「更新包下载完成后不提示重启、弹窗自行关闭」的问题。\n更新过程新增下载进度显示与「立即重启」确认；若上次更新包已就绪但未完成，本次启动会自动收尾。",
-  "publishedAt": "2026-09-18",
+  "releaseNotes": "（全量更新测试1）",
+  "publishedAt": "2026-09-19",
   "packages": [
     {
       "name": "NexBusStudio-win-x64.zip",
-      "size": 22490390,
-      "sha256": "d0294a68b577ded3d51ce343126c2a5994431b1fd179b92255c3504ba7a302b4",
+      "size": 23025790,
+      "sha256": "c0e8cae955db5f08ba57c07d5ee379e4d3fb26ea595e7909fe61e3c9751cffd8",
       "urls": [
-        "https://v4.gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v1.1.1/NexBusStudio-win-x64.zip",
-        "https://gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v1.1.1/NexBusStudio-win-x64.zip",
-        "https://ghfast.top/https://github.com/Aquabot-git/nexbus-update/releases/download/v1.1.1/NexBusStudio-win-x64.zip",
-        "https://github.com/Aquabot-git/nexbus-update/releases/download/v1.1.1/NexBusStudio-win-x64.zip"
+        "https://v4.gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.6.0/NexBusStudio-win-x64.zip",
+        "https://gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.6.0/NexBusStudio-win-x64.zip",
+        "https://ghfast.top/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.6.0/NexBusStudio-win-x64.zip",
+        "https://github.com/Aquabot-git/nexbus-update/releases/download/v0.6.0/NexBusStudio-win-x64.zip"
       ]
     }
   ]
