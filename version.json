@@ -1,35 +1,35 @@
 {
-  "version": "0.9.8",
+  "version": "0.9.9",
   "channel": "stable",
   "releaseNotes": "（在此填写本次更新说明）",
   "publishedAt": "2026-10-16",
   "packages": [
     {
       "name": "NexBusStudio-win-x64.dat",
-      "size": 24748922,
-      "sha256": "433ff48363dc13238898c0356bae62615850b16c3ee4c2c6bf2b218ced99b774",
+      "size": 24747462,
+      "sha256": "10c5dc3cb9e09ed78d70862ee54a15774a8bb2cb00eef4e51c2fe8a0b97ac33a",
       "urls": [
-        "https://v4.gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-win-x64.dat",
-        "https://gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-win-x64.dat",
-        "https://ghfast.top/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-win-x64.dat",
-        "https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-win-x64.dat"
+        "https://v4.gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-win-x64.dat",
+        "https://gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-win-x64.dat",
+        "https://ghfast.top/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-win-x64.dat",
+        "https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-win-x64.dat"
       ]
     }
   ],
   "deltas": [
     {
-      "from": "0.9.6",
-      "to": "0.9.8",
-      "name": "NexBusStudio-0.9.6-to-0.9.8.dat",
-      "size": 2061062,
-      "sha256": "10db84e365c9e6cd5b6c062d29c20ac800751601afc1bd5c103c0365a86cfb25",
-      "changed": 4,
+      "from": "0.9.8",
+      "to": "0.9.9",
+      "name": "NexBusStudio-0.9.8-to-0.9.9.dat",
+      "size": 1040456,
+      "sha256": "87339c571bfdfe79c1932823a153e9dc3a1e7da2b4dc390b5ee692c575f88f7c",
+      "changed": 2,
       "deleted": 0,
       "urls": [
-        "https://v4.gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-0.9.6-to-0.9.8.dat",
-        "https://gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-0.9.6-to-0.9.8.dat",
-        "https://ghfast.top/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-0.9.6-to-0.9.8.dat",
-        "https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.8/NexBusStudio-0.9.6-to-0.9.8.dat"
+        "https://v4.gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-0.9.8-to-0.9.9.dat",
+        "https://gh-proxy.org/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-0.9.8-to-0.9.9.dat",
+        "https://ghfast.top/https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-0.9.8-to-0.9.9.dat",
+        "https://github.com/Aquabot-git/nexbus-update/releases/download/v0.9.9/NexBusStudio-0.9.8-to-0.9.9.dat"
       ]
     }
   ]
